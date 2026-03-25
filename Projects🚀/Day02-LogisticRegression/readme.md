@@ -50,5 +50,5 @@ Classification → predict yes/no → use Accuracy, Precision, Recall, F1
 - pandas
 - numpy
 - matplotlib
-- seaborn
+- seaborn!
 
