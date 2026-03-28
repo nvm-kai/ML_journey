@@ -119,8 +119,8 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 
 **Satya**
 
-* GitHub: https://github.com/nvm-kai
-* LinkedIn: https://www.linkedin.com/in/satyashry
+* Linked in : https://www.linkedin.com/in/psatyashry24
+* GitHub : https://github.com/nvm-kai
 
 ---
 
